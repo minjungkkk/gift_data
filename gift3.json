@@ -2,22 +2,23 @@
   {
     "id" : 7,
     "title": "[HARVEST OF LOVE] 오리지날 오일 세트(500mlx2)",
-    "imgUrl": "img/gift/best7.jpg",
+    "imgUrl": "img/gift/gift7.jpg",
     "content": "오리지널 2개 세트",
     "price": "153,000원"
   },
   {
     "id" : 8,
     "title" : "미니 올리브 오일 세트 (50ml, 4종)",
-    "imgUrl" : "img/gift/best8.jpg",
+    "imgUrl" : "img/gift/gift8.jpg",
     "content" : "오리지널 + 바질 + 갈릭 + 칠리",
     "price" : "66,000원"
   },
   {
     "id" : 9,
     "title" : "올리브오일 500ml 스패츌라 세트",
-    "imgUrl" : "img/gift/best9.jpg",
+    "imgUrl" : "img/gift/gift9.jpg",
     "content" : "미니 스패츌라 (4종 택 1)",
     "price" : "80,000원"
   }
+
 ]
