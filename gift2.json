@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 4,
+    "title" : "올리브오일 3종 세트",
+    "imgUrl" : "img/gift/gift4.jpg",
+    "content" : "바질 + 칠리 + 갈릭",
+    "price" : "138,000원"
+  },
+  {
+    "id" : 5,
+    "title" : "오일,비네거 2종세트",
+    "imgUrl" : "img/gift/gift5.jpg",
+    "content" : "올리브오일 + 발사믹",
+    "price" : "116,000원"
+  },
+  {
+    "id" : 6,
+    "title" : "올리브오일 2종 세트",
+    "imgUrl" : "img/gift/gift6.jpg",
+    "content" : "올리브 + 레몬",
+    "price" : "113,000원"
+  }
+]
